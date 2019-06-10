@@ -1,0 +1,12 @@
+{application, vtx_common,
+  [
+   {description, "Leo Commons"},
+   {vsn, "0.12.3"},
+   {id, "vtx_common"},
+   {registered, []},
+   {applications, [kernel, stdlib]},
+   {mod, {vtx_common, []}},
+   {env, []}
+  ]
+}.
+
