@@ -6,16 +6,15 @@
 
 -include_lib("vtx_common/include/air.hrl").
 
-%-include_lib("vtx_common/include/octopus.hrl").
--include_lib("octopus.hrl").
--include_lib("ns.hrl").
+-include_lib("vtx_common/include/mdmadmin.hrl").
+%%-include_lib("ns.hrl").
 
 -include_lib("vtx_common/include/iris.hrl").
 
 -include_lib("vtx_common/include/cell.hrl").
 
 % erlson
--include_lib("erlson/include/erlson.hrl").
+%%-include_lib("erlson/include/erlson.hrl").
 % elog
 %-include_lib("elog/include/elog.hrl").
 
