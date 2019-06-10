@@ -6,7 +6,7 @@
 
 -include_lib("vtx_common/include/air.hrl").
 
--include_lib("vtx_common/include/mdmadmin.hrl").
+-include_lib("mdmadmin/include/mdmadmin.hrl").
 %%-include_lib("ns.hrl").
 
 -include_lib("vtx_common/include/iris.hrl").
